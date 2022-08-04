@@ -9,3 +9,5 @@
 | WeatherApi | Simple Weather Api written in C# | https://github.com/hugogirard/WeatherAPi | C# | Done 
 | FibonacciApi | Simple FibonacciApi writte in NodeJS | https://github.com/hugogirard/FibonacciApi | NodeJS | Done
 | appServiceManagedIdentityForDB | Managed Identity to connect to Azure SQL with App Service | https://github.com/hugogirard/appServiceManagedIdentityForDB | SQL Azure, App Service | Done
+| apimDevOps | DevOps for Azure APIM | https://github.com/hugogirard/apimDevOps | APIM | Done
+| 
