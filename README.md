@@ -10,4 +10,7 @@
 | FibonacciApi | Simple FibonacciApi writte in NodeJS | https://github.com/hugogirard/FibonacciApi | NodeJS | Done
 | appServiceManagedIdentityForDB | Managed Identity to connect to Azure SQL with App Service | https://github.com/hugogirard/appServiceManagedIdentityForDB | SQL Azure, App Service | Done
 | apimDevOps | DevOps for Azure APIM | https://github.com/hugogirard/apimDevOps | APIM | Done
-| 
+| videoIndexer | Azure Video Indexer with Logic App | https://github.com/hugogirard/videoIndexer | Video Indexer and Logic App | In progress
+| mediaServiceConversion | Conversion of video using Media Service | https://github.com/hugogirard/mediaServiceConversion | Function and Media Service | Done
+| appRegistrationGovernance | App Registration Governance | https://github.com/hugogirard/appRegistrationGovernance | Logic App and MSGraph | Done
+| appRegistrationDemo | Azure AD app registration demo | https://github.com/hugogirard/demoAppRegistration | Azure AD | Done
