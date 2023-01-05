@@ -14,3 +14,4 @@
 | mediaServiceConversion | Conversion of video using Media Service | https://github.com/hugogirard/mediaServiceConversion | Function and Media Service | Done
 | appRegistrationGovernance | App Registration Governance | https://github.com/hugogirard/appRegistrationGovernance | Logic App and MSGraph | Done
 | appRegistrationDemo | Azure AD app registration demo | https://github.com/hugogirard/demoAppRegistration | Azure AD | Done
+| valetKeyPattern | Azure Function with a protected storage behind Application Gateway with the ValetKey Pattern | Function, Storage |   https://github.com/hugogirard/valetKeyPattern | done
