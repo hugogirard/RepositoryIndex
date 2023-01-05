@@ -2,8 +2,6 @@
 
 | Name | Description | Link | Azure Services | Status |
 | -----|-------------|------|----------------| ------ |
-| graphQLInAzure | GraphQL in Azure with APIM | https://github.com/hugogirard/graphQLInAzure | APIM, App Service, CosmosDB | In Progress |
-| textToSpeechDemo | Text To Speech Demo | https://github.com/hugogirard/textToSpeechDemo | Function, CosmosDB, App Service, Cognitives Services, Service Bus | Done
 | formRecognizerDevOps | DevOps with Form Recognizer | https://github.com/hugogirard/formRecognizerDevOps | App Service, Form Recognizer | Done
 | asev3EnterpriseDemo | ASE v3 with Hub and Spoke and Firewall | https://github.com/hugogirard/asev3enterpriseDemo | ASE v3, App Service, Firewall, Network | Done
 | WeatherApi | Simple Weather Api written in C# | https://github.com/hugogirard/WeatherAPi | C# | Done 
